@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Lars</h1>
 <p>I'm a student from  🇩🇪 Germany and my passion is combining entrepreneurship with building innovative projects.</p>
 
-- My biggest achievement is building and maintaining a popular Fortnite Map generating $100k+ in annual revenue (https://fortnite.gg/island?code=4230-4693-2652).
+- My biggest achievement is building and maintaining a popular Fortnite Map that was played more than 14 million times until now (https://fortnite.gg/island?code=4230-4693-2652).
 
 - Currently I'm working on a custom ESP32 based FC for quadcopters and looking to create autonomous drone applications with machine learning.
 
